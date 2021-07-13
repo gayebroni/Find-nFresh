@@ -45,7 +45,7 @@ Shane Crisostomo: Style, CSS, PowerPoint, JS, HTML
 
 Ryan Jolley: APIs, JS, Git, Style, HTML
 
-Gaye Proctor: Style, HTML 
+Gaye Proctor: HTML, Google Slides Presentation
 
 
 
